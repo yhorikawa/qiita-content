@@ -6,14 +6,14 @@ settings:
 
 devDependencies:
   '@qiita/qiita-cli':
-    specifier: ^1.3.1
-    version: 1.3.1
+    specifier: ^1.4.0
+    version: 1.4.0
 
 packages:
 
-  /@qiita/qiita-cli@1.3.1:
-    resolution: {integrity: sha512-4d4mnZtzIbGCgiib0zTxlTY4uaTQupF4U8dZ8AfNKqq2je7kQHVHvsLbnG/1sjOlUoAehtGV6lJWzce3gzfVew==}
-    engines: {node: '>=18.0.0'}
+  /@qiita/qiita-cli@1.4.0:
+    resolution: {integrity: sha512-QZaVABzD3UHP2Huzb+5yDswKhohEgFO79lCB0gKEZ2PLEFRe5L0uflL5qrV220kmOOiqp+7nk49zygBzUblIlg==}
+    engines: {node: '>=18.12.0'}
     hasBin: true
     dependencies:
       arg: 5.0.2
