@@ -6,6 +6,6 @@
   "scripts": {},
   "keywords": [],
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.5.0"
+    "@qiita/qiita-cli": "^1.6.1"
   }
 }
